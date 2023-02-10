@@ -1,0 +1,21 @@
+/*
+ *Name: Hank Everson
+ *UnityID: dheverso
+ *Date: 11/12/21
+ *Assignment: webpages_IA
+ *Description: Independent Assignment 4 E115
+ */
+ 
+body {
+    background-color: #EADF34;
+}
+
+.table-border {
+    border: 2px solid #FF00FF;
+}
+
+#photo {
+    height: 350px;
+	width: 300px;
+	border: 2px outset #00FFFF;
+}
